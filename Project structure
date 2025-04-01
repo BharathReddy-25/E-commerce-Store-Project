@@ -1,0 +1,23 @@
+ecommerce-store/
+├── frontend/
+│   ├── index.html
+│   ├── products.html
+│   ├── cart.html
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   ├── main.js
+│   │   ├── products.js
+│   │   └── cart.js
+│   └── images/
+├── backend/
+│   ├── app.js (or manage.py for Django)
+│   ├── models/
+│   ├── routes/
+│   ├── controllers/
+│   └── config/
+├── database/
+│   ├── models.js (or models.py)
+│   └── seed.js (sample data)
+├── README.md
+└── report.md
